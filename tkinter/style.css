@@ -1,0 +1,35 @@
+/* docs/style.css */
+h1 {
+	border: 1px solid gray;
+	border-width: 1px 1px 1px 1px; /* top right bottom left */
+	background: #eee;
+	padding: 8px 8px;
+}
+h2 {
+	border: 1px solid gray;
+	border-width: 0px 0px 0px 8px; /* top right bottom left */
+	background: #eee;
+	padding: 4px 8px;
+}
+h3 {
+	border: 1px solid silver;
+	border-width: 1px 0px 0px 4px; /* top right bottom left */
+	padding: 1px 8px;
+}
+table.etc {
+	padding-left: 20px;
+}
+table.etc tr td:nth-child(1) {
+	font-weight: bold;
+}
+span.code {
+	font-family: courier, monospace;
+	font-size: 100%;
+}
+pre {
+	line-height: 125%;
+}
+.rst-content pre code {
+	background: #f0f0f0;
+	font-size: 11pt;
+}
