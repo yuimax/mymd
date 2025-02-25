@@ -3,7 +3,7 @@
 Markdown 置き場
 
 ## AI 問答集
-- [markd.jsの機能拡張-画像サイズ指定](ai_qa/markd.jsの機能拡張-画像サイズ指定.md)
+- [marked.jsの機能拡張-画像サイズ指定](ai_qa/markd.jsの機能拡張-画像サイズ指定.md)
 
 ## ブログ「季節のメモ」
 - [大寒](yuima_yblo/001-大寒.md)
