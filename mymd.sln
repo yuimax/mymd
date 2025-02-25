@@ -20,7 +20,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "yuima_yblo", "yuima_yblo", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{1A27C0F0-4415-47D0-9A70-C8A6DCDF0043}"
 	ProjectSection(SolutionItems) = preProject
+		ai_qa\GitHubでフォルダごとにREADMEを置けますか.md = ai_qa\GitHubでフォルダごとにREADMEを置けますか.md
 		ai_qa\markd.jsの機能拡張-画像サイズ指定.md = ai_qa\markd.jsの機能拡張-画像サイズ指定.md
+		ai_qa\README.md = ai_qa\README.md
 	EndProjectSection
 EndProject
 Global
