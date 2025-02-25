@@ -37,6 +37,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tkinter", "tkinter", "{CDF4
 		tkinter\04-button.md = tkinter\04-button.md
 		tkinter\about.md = tkinter\about.md
 		tkinter\index.md = tkinter\index.md
+		tkinter\README.md = tkinter\README.md
 		tkinter\style.css = tkinter\style.css
 	EndProjectSection
 EndProject
