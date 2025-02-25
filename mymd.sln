@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "yuima_yblo", "yuima_yblo", 
 		yuima_yblo\008-十万石まんじゅう県に住んでいます.md = yuima_yblo\008-十万石まんじゅう県に住んでいます.md
 		yuima_yblo\009-雨水.md = yuima_yblo\009-雨水.md
 		yuima_yblo\010-このAI画像を作ったのは誰だぁ！.md = yuima_yblo\010-このAI画像を作ったのは誰だぁ！.md
+		yuima_yblo\README.md = yuima_yblo\README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{1A27C0F0-4415-47D0-9A70-C8A6DCDF0043}"
