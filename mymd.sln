@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}"
 	ProjectSection(SolutionItems) = preProject
@@ -18,12 +18,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "yuima_yblo", "yuima_yblo", 
 		yuima_yblo\010-このAI画像を作ったのは誰だぁ！.md = yuima_yblo\010-このAI画像を作ったのは誰だぁ！.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ai_qa", "ai_qa", "{1A27C0F0-4415-47D0-9A70-C8A6DCDF0043}"
+	ProjectSection(SolutionItems) = preProject
+		ai_qa\markd.jsの機能拡張-画像サイズ指定.md = ai_qa\markd.jsの機能拡張-画像サイズ指定.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DDB4EF12-CC4E-5E88-E6FC-71A802F4DE97} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
+		{1A27C0F0-4415-47D0-9A70-C8A6DCDF0043} = {2022CB0F-8BAF-F49E-0C48-8EF4C96EC109}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA4FB292-DEE5-488F-AB9F-F0A3A7C4B3A8}
