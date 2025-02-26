@@ -1,9 +1,9 @@
 # How to tkinter
-Python ‚Ì tkinter ‚Ìg‚¢•û‚ğ‚Ü‚Æ‚ß‚Ä‚¢‚Ü‚·
+Python ã® tkinter ã®ä½¿ã„æ–¹ã‚’ã¾ã¨ã‚ã¦ã„ã¾ã™
 
-- [Tk -- ƒƒCƒ“ƒEƒBƒ“ƒhƒE](01-tk.md)
-- [Text -- •¡”sƒeƒLƒXƒg](02-text.md)
-- [Frame -- ƒtƒŒ[ƒ€](03-frame.md)
-- [Button --‰Ÿ‚µƒ{ƒ^ƒ“](04-button.md)
+- [Tk -- ãƒ¡ã‚¤ãƒ³ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦](01-tk.md)
+- [Text -- è¤‡æ•°è¡Œãƒ†ã‚­ã‚¹ãƒˆ](02-text.md)
+- [Frame -- ãƒ•ãƒ¬ãƒ¼ãƒ ](03-frame.md)
+- [Button --æŠ¼ã—ãƒœã‚¿ãƒ³](04-button.md)
  
 <!-- -->

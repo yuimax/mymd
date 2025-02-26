@@ -16,20 +16,12 @@ h3 {
 	border-width: 1px 0px 0px 4px; /* top right bottom left */
 	padding: 1px 8px;
 }
-table.etc {
-	padding-left: 20px;
-}
-table.etc tr td:nth-child(1) {
-	font-weight: bold;
-}
-span.code {
-	font-family: courier, monospace;
-	font-size: 100%;
-}
 pre {
 	line-height: 125%;
 }
-.rst-content pre code {
+.rst-content code {
 	background: #f0f0f0;
-	font-size: 11pt;
+	color: #900000;
+	font-family: courier, monospace;
+	font-size: 95%;
 }
